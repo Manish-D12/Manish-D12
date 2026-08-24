@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=38&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&multiline=false&width=800&height=90&lines=Manish+Divakaruni;AI%2FML+%26+Full-Stack+Developer;" />
 
-<img src="https://komarev.com/ghpvc/?username=Manish-D12&label=Profile%20Views&color=555555&style=flat" alt="views" />
+
 
 </div>
 
