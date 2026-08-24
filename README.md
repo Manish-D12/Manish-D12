@@ -1,9 +1,19 @@
-<h1 align="center">Manish Divakaruni</h1>
-<p align="center"><b>AI/ML & Full-Stack Developer</b></p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Manish-D12&label=Profile%20Views&color=555555&style=flat" alt="views" />
-</p>
+```
+███╗   ███╗ █████╗ ███╗   ██╗██╗███████╗██╗  ██╗
+████╗ ████║██╔══██╗████╗  ██║██║██╔════╝██║  ██║
+██╔████╔██║███████║██╔██╗ ██║██║███████╗███████║
+██║╚██╔╝██║██╔══██║██║╚██╗██║██║╚════██║██╔══██║
+██║ ╚═╝ ██║██║  ██║██║ ╚████║██║███████║██║  ██║
+╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚══════╝╚═╝  ╚═╝
+```
+
+**AI/ML & Full-Stack Developer**
+
+<img src="https://komarev.com/ghpvc/?username=Manish-D12&label=Profile%20Views&color=555555&style=flat" alt="views" />
+
+</div>
 
 ---
 
