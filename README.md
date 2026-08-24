@@ -1,76 +1,91 @@
-<h1 align="center">Hi 👋, I'm Manish Divakaruni</h1>
-<h3 align="center">AI/ML & Full-Stack Developer</h3>
+<h1 align="center">Manish Divakaruni</h1>
+<p align="center"><b>AI/ML & Full-Stack Developer</b></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Manish-D12&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Manish-D12&label=Profile%20Views&color=6d28d9&style=flat" alt="views" />
 </p>
 
 ---
 
-### 🚀 About Me
+<table>
+<tr>
+<td valign="top" width="55%">
 
-- 🔭 I'm currently working on **[PathPilot](https://github.com/Manish-D12/PathPilot)**
-- 🛠️ Also building **[FetchVid](https://github.com/Manish-D12/FetchVid)**
-- 🧩 Sharpening my DSA on **[LeetCode](https://leetcode.com/u/divakaruni_manish/)** — [progress repo](https://github.com/Manish-D12/DSA-)
-- 🌱 Currently learning **Python & Deep Learning**
-- 🌐 Portfolio: **[dmanish.netlify.app](https://dmanish.netlify.app/)**
-- 📫 Reach me at **manishseshasai@gmail.com**
-- ⚡ Fun fact: *the human head weighs 8 pounds*
+### About Me
 
----
+```
+Name:     Manish Divakaruni
+Location: Hyderabad, India
+Study:    ECE @ KL University
 
-### 🔗 Connect with me
+Focus:
+  - Gen AI & Machine Learning
+  - Full-Stack Web Development
+  - DSA & problem solving
 
-<p align="left">
-<a href="https://www.linkedin.com/in/manish-sesha-sai-0287352a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://www.instagram.com/divakaruni_manish__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/manishseshasai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/divakaruni_manish/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
-</p>
+Learning:
+  - Deep Learning
+  - Cloud & DevOps
+```
 
----
+</td>
+<td valign="top" width="45%">
 
-### 🧰 Languages and Tools
+### Skills
 
-<p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-</p>
+Gen AI · Machine Learning · Full-Stack Web · DevOps · DSA
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📊 GitHub Stats
+### Tech
+
+**Languages**
+
+[![langs](https://skillicons.dev/icons?i=python,java,js,html,css)](https://skillicons.dev)
+
+**Frameworks**
+
+[![frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,django,tailwind)](https://skillicons.dev)
+
+**AI / ML**
+
+[![aiml](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn)](https://skillicons.dev)
+
+**Tools & Platforms**
+
+[![tools](https://skillicons.dev/icons?i=git,docker,linux,mongodb,mysql,firebase,vercel,netlify)](https://skillicons.dev)
+
+---
+
+### GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manish-D12&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Manish-D12&show_icons=true&hide_border=true&title_color=b7a4f5&icon_color=c026d3&text_color=fafafa&bg_color=0f0e15" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-D12&layout=compact&hide_border=true&title_color=b7a4f5&text_color=fafafa&bg_color=0f0e15" alt="top langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Manish-D12&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manish-D12&hide_border=true&bg_color=08070c&color=b7a4f5&line=c026d3&point=fafafa&area=true&area_color=6d28d9" alt="activity graph" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manish-D12&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Manish-D12&theme=tokyonight&no-frame=true&column=7" alt="trophies" />
-</p>
+### Current Focus
+
+| 🎯 Building | 🧩 Coding | 🌱 Learning |
+| ---------- | -------- | ---------- |
+| [PathPilot](https://github.com/Manish-D12/PathPilot) | [DSA](https://github.com/Manish-D12/DSA-) | Deep Learning |
+| [FetchVid](https://github.com/Manish-D12/FetchVid) | [LeetCode](https://leetcode.com/u/divakaruni_manish/) | DevOps |
+
+---
+
+### Let's Connect
+
+[![Email](https://img.shields.io/badge/Email-c026d3?style=for-the-badge&logo=gmail&logoColor=fafafa)](mailto:manishseshasai@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-08070c?style=for-the-badge&logo=linkedin&logoColor=b7a4f5)](https://www.linkedin.com/in/manish-sesha-sai-0287352a8/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6d28d9?style=for-the-badge&logo=vercel&logoColor=fafafa)](https://dmanish.netlify.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-08070c?style=for-the-badge&logo=instagram&logoColor=b7a4f5)](https://www.instagram.com/divakaruni_manish__/)
